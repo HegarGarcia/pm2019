@@ -1,0 +1,12 @@
+C:\Users\Hegar Garcia\Dev\pm2019\check_box\check_box\check_box\bin\Debug\netstandard2.0\check_box.deps.json
+C:\Users\Hegar Garcia\Dev\pm2019\check_box\check_box\check_box\bin\Debug\netstandard2.0\check_box.dll
+C:\Users\Hegar Garcia\Dev\pm2019\check_box\check_box\check_box\bin\Debug\netstandard2.0\check_box.pdb
+C:\Users\Hegar Garcia\Dev\pm2019\check_box\check_box\check_box\obj\Debug\netstandard2.0\check_box.csprojAssemblyReference.cache
+C:\Users\Hegar Garcia\Dev\pm2019\check_box\check_box\check_box\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Hegar Garcia\Dev\pm2019\check_box\check_box\check_box\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Hegar Garcia\Dev\pm2019\check_box\check_box\check_box\obj\Debug\netstandard2.0\check_box.csproj.CoreCompileInputs.cache
+C:\Users\Hegar Garcia\Dev\pm2019\check_box\check_box\check_box\obj\Debug\netstandard2.0\check_box.AssemblyInfoInputs.cache
+C:\Users\Hegar Garcia\Dev\pm2019\check_box\check_box\check_box\obj\Debug\netstandard2.0\check_box.AssemblyInfo.cs
+C:\Users\Hegar Garcia\Dev\pm2019\check_box\check_box\check_box\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Hegar Garcia\Dev\pm2019\check_box\check_box\check_box\obj\Debug\netstandard2.0\check_box.dll
+C:\Users\Hegar Garcia\Dev\pm2019\check_box\check_box\check_box\obj\Debug\netstandard2.0\check_box.pdb
