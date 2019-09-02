@@ -1,0 +1,12 @@
+C:\Users\Hegar Garcia\Dev\pm2019\picker\picker\picker\bin\Debug\netstandard2.0\picker.deps.json
+C:\Users\Hegar Garcia\Dev\pm2019\picker\picker\picker\bin\Debug\netstandard2.0\picker.dll
+C:\Users\Hegar Garcia\Dev\pm2019\picker\picker\picker\bin\Debug\netstandard2.0\picker.pdb
+C:\Users\Hegar Garcia\Dev\pm2019\picker\picker\picker\obj\Debug\netstandard2.0\picker.csprojAssemblyReference.cache
+C:\Users\Hegar Garcia\Dev\pm2019\picker\picker\picker\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Hegar Garcia\Dev\pm2019\picker\picker\picker\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Hegar Garcia\Dev\pm2019\picker\picker\picker\obj\Debug\netstandard2.0\picker.csproj.CoreCompileInputs.cache
+C:\Users\Hegar Garcia\Dev\pm2019\picker\picker\picker\obj\Debug\netstandard2.0\picker.AssemblyInfoInputs.cache
+C:\Users\Hegar Garcia\Dev\pm2019\picker\picker\picker\obj\Debug\netstandard2.0\picker.AssemblyInfo.cs
+C:\Users\Hegar Garcia\Dev\pm2019\picker\picker\picker\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Hegar Garcia\Dev\pm2019\picker\picker\picker\obj\Debug\netstandard2.0\picker.dll
+C:\Users\Hegar Garcia\Dev\pm2019\picker\picker\picker\obj\Debug\netstandard2.0\picker.pdb

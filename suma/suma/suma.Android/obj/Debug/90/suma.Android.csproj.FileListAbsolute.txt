@@ -495,3 +495,4 @@ C:\Users\Hegar Garcia\Dev\pm2019\suma\suma\suma.Android\obj\Debug\90\stamp\_Copy
 C:\Users\Hegar Garcia\Dev\pm2019\suma\suma\suma.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\Hegar Garcia\Dev\pm2019\suma\suma\suma.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Hegar Garcia\Dev\pm2019\suma\suma\suma.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Hegar Garcia\Dev\pm2019\suma\suma\suma.Android\bin\Debug\suma.dll.mdb
