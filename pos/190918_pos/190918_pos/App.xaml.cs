@@ -2,7 +2,7 @@
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace _190918_pos
+namespace pos
 {
     public partial class App : Application
     {

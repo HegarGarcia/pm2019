@@ -4,13 +4,13 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="_190918_pos.MainPage">
+             x:Class="pos.MainPage">
 
     <StackLayout>
-        <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
+        <Button Text="Clientes" Clicked="Button_Clicked"></Button>
+        <Button Text="Productos" Clicked="Button_Clicked_1"></Button>
+        <Button Text="Ventas" Clicked="Button_Clicked_2"></Button>
+        <Button Text="Reportes" Clicked="Button_Clicked_3"></Button>
     </StackLayout>
 
 </ContentPage>

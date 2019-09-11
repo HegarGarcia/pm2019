@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace 190918_pos
+namespace pos
 {
 	[XamlCompilation(XamlCompilationOptions.Compile)]
 public partial class SellForm : ContentPage

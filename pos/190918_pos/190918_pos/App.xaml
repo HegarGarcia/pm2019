@@ -4,7 +4,7 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="_190918_pos.App">
+             x:Class="pos.App">
     <Application.Resources>
 
     </Application.Resources>
