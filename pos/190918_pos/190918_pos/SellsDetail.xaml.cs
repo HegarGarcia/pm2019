@@ -3,18 +3,17 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace 190918_pos
+namespace _190918_pos
 {
-	[XamlCompilation(XamlCompilationOptions.Compile)]
-public partial class SellsDetail : ContentPage
-{
-    public SellsDetail()
+    [XamlCompilation(XamlCompilationOptions.Compile)]
+    public partial class SellsDetail : ContentPage
     {
-        InitializeComponent();
+        public SellsDetail()
+        {
+            InitializeComponent();
+        }
     }
-}
 }
