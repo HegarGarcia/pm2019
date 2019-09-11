@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Authentication.LoginPage">
+
+    <StackLayout Margin="30,30,30,5">
+
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+            <Image Source="person_icon.png"/>
+        </StackLayout>
+        
+        <Label Text="Usuario" FontSize="Medium" />
+        <Entry x:Name="userEntry" FontSize="Medium"/>
+        
+        <Label Text="Contraseña" FontSize="Medium"/>
+        <Entry x:Name="passwordEntry" FontSize="Medium" IsPassword="True"/>
+        
+        <Button Text="Entrar" FontSize="Medium" BackgroundColor="DarkSlateBlue" TextColor="White" Clicked="Login_User_Click"/>
+        
+        <StackLayout Orientation="Horizontal" HorizontalOptions="End">
+            <Label Text="Recordar el usuario"/>
+            <Switch x:Name="rememberToggle"/>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>
