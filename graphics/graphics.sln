@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "graphics.Android", "graphics\graphics.Android\graphics.Android.csproj", "{4DA3A07E-406F-44CF-8F8F-85C292F019EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "graphics", "graphics\graphics\graphics.csproj", "{ADC6F638-3A1E-48C6-81D6-95DC485D6FC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DA3A07E-406F-44CF-8F8F-85C292F019EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA3A07E-406F-44CF-8F8F-85C292F019EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DA3A07E-406F-44CF-8F8F-85C292F019EA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4DA3A07E-406F-44CF-8F8F-85C292F019EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DA3A07E-406F-44CF-8F8F-85C292F019EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DA3A07E-406F-44CF-8F8F-85C292F019EA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{ADC6F638-3A1E-48C6-81D6-95DC485D6FC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC6F638-3A1E-48C6-81D6-95DC485D6FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC6F638-3A1E-48C6-81D6-95DC485D6FC1}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{ADC6F638-3A1E-48C6-81D6-95DC485D6FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC6F638-3A1E-48C6-81D6-95DC485D6FC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADC6F638-3A1E-48C6-81D6-95DC485D6FC1}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2425F1FA-5D93-484C-8762-5D52C6F9F03E}
+	EndGlobalSection
+EndGlobal

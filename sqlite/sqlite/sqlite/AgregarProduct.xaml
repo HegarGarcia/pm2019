@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="sqlite.AgregarProduct"
+             Title="Agregar producto">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Name="MenuItem1" Order="Primary" Icon="tick.png" Text="Save" Priority="0" Clicked="MenuItem1_Clicked" />
+    </ContentPage.ToolbarItems>
+
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Margin="35,15,15,15">
+                <Label Text="Nombre" FontSize="Medium"/>
+                <Entry x:Name="nombre"/>
+
+                <Label Text="Precio de venta" FontSize="Medium"/>
+                <Entry x:Name="preciodeventa" Keyboard="Numeric"/>
+
+                <Label Text="Cantidad" FontSize="Medium"/>
+                <Entry x:Name="cantidad" Keyboard="Numeric"/>
+
+                <Label Text="Precio de costo" FontSize="Medium"/>
+                <Entry x:Name="preciodecosto" Keyboard="Numeric"/>
+
+                <Label Text="Descripcion:" FontSize="Medium"/>
+                <Editor x:Name="descipcion" HeightRequest="150"/>
+
+                <Label Text="Foto URL" FontSize="Medium"/>
+                <Entry x:Name="foto"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
