@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="mysql.MainPage"
+             Title="Registro">
+
+    <ContentPage.Content>
+        <StackLayout Margin="5">
+            <Label Text="Nombre completo"/>
+            <Entry x:Name="fullnameEntry" FontSize="Medium"/>
+
+            <Label Text="Nombre de usuario"/>
+            <Entry x:Name="usernameEntry" FontSize="Medium"/>
+
+            <Label Text="Contraseña"/>
+            <Entry x:Name="passwordEntry" IsPassword="True" FontSize="Medium"/>
+
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                <Button Text="REGISTRAR" 
+                        FontSize="Medium" 
+                        BackgroundColor="Fuchsia" 
+                        Clicked="RegiterButttonClick" 
+                        BorderRadius="24"/>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                <Button Text="LOAD" 
+                        FontSize="Medium" 
+                        BackgroundColor="Orange" 
+                        Clicked="LoadButtonClick" 
+                        BorderRadius="24"/>
+            </StackLayout>
+
+            <ListView x:Name="userList" HasUnevenRows="True" ItemTapped="UserList_ItemTapped" Margin="0, 20">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="{Binding id}" 
+                                       FontSize="Large" 
+                                       HorizontalOptions="Start" 
+                                       VerticalOptions="Center" 
+                                       VerticalTextAlignment="Center" 
+                                       HorizontalTextAlignment="Center"
+                                       Margin="20, 0"/>
+
+
+                                <StackLayout Orientation="Vertical">
+                                    <StackLayout Orientation="Horizontal">
+                                        <Label Text="Nombre:"/>
+                                        <Label Text="{Binding name}" />
+                                    </StackLayout>
+
+                                    <StackLayout Orientation="Horizontal">
+                                        <Label Text="Username:"/>
+                                        <Label Text="{Binding user}" />
+                                    </StackLayout>
+
+                                    <StackLayout Orientation="Horizontal">
+                                        <Label Text="Contraseña:"/>
+                                        <Label Text="{Binding password}" />
+                                    </StackLayout>
+                                </StackLayout>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+
+    </ContentPage.Content>
+
+</ContentPage>

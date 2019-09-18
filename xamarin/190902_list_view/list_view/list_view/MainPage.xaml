@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="list_view.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="BlueViolet">
+            <Label Text="Ejemplo de ListView de frutas" HorizontalTextAlignment="Center" TextColor="White"/>
+        </Frame>
+
+        <Label Text="Nombre de la fruto:" Margin="15,0"/>
+        <Entry x:Name="fruta_nombre" Margin="15,0"/>
+
+        <Label Text="URL de imagen de la fruta" Margin="15,0"/>
+        <Entry x:Name="fruta_url" Margin="15,0"/>
+
+        <Button Text="Agregar" CornerRadius="24" BackgroundColor="Orange" Clicked="Button_Clicked" Margin="15,1"/>
+
+        <ListView x:Name="lista" ItemTapped="Milista_ItemTapped" SeparatorColor="Coral" Margin="15,1">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <ViewCell.ContextActions>
+                            <MenuItem Clicked="MenuItem_Clicked" Text="Mostrar" />
+                            <MenuItem Clicked="MenuItem_Borrar" CommandParameter="{Binding Nombre}" Text="Borrar" IsDestructive="True" />
+                        </ViewCell.ContextActions>
+                        <StackLayout Orientation="Horizontal">
+                            <Image Source="{Binding Url}"/>
+                            <StackLayout Padding="15,0">
+                                <Label Text="Valor del elemento:"/>
+                                <Label Text="{Binding Nombre}" />
+                            </StackLayout>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+    
+    
+</ContentPage>
