@@ -10,344 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7936b8de-1fee-4931-9c85-a0bd4d52f5a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/app/src/androidTest/java/com/hegargarcia/suma_with_radio_buttons/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/app/src/main/java/com/hegargarcia/suma_with_radio_buttons/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/app/src/test/java/com/hegargarcia/suma_with_radio_buttons/ExampleUnitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_check_box/check_box.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_check_box/check_box/check_box.Android/Assets/AboutAssets.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_check_box/check_box/check_box.Android/MainActivity.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_check_box/check_box/check_box.Android/Properties/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_check_box/check_box/check_box.Android/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_check_box/check_box/check_box.Android/Resources/AboutResources.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_check_box/check_box/check_box.Android/Resources/layout/Tabbar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_check_box/check_box/check_box.Android/Resources/layout/Toolbar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_check_box/check_box/check_box.Android/Resources/mipmap-anydpi-v26/icon.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_check_box/check_box/check_box.Android/Resources/mipmap-anydpi-v26/icon_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_check_box/check_box/check_box.Android/Resources/mipmap-hdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_check_box/check_box/check_box.Android/Resources/mipmap-hdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_check_box/check_box/check_box.Android/Resources/mipmap-mdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_check_box/check_box/check_box.Android/Resources/mipmap-mdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_check_box/check_box/check_box.Android/Resources/mipmap-xhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_check_box/check_box/check_box.Android/Resources/mipmap-xhdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_check_box/check_box/check_box.Android/Resources/mipmap-xxhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_check_box/check_box/check_box.Android/Resources/mipmap-xxhdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_check_box/check_box/check_box.Android/Resources/mipmap-xxxhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_check_box/check_box/check_box.Android/Resources/mipmap-xxxhdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_check_box/check_box/check_box.Android/Resources/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_check_box/check_box/check_box.Android/Resources/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_check_box/check_box/check_box.Android/check_box.Android.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_check_box/check_box/check_box/App.xaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_check_box/check_box/check_box/App.xaml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_check_box/check_box/check_box/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_check_box/check_box/check_box/MainPage.xaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_check_box/check_box/check_box/MainPage.xaml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_check_box/check_box/check_box/check_box.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_radio_button/radio_button.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_radio_button/radio_button/radio_button.Android/Assets/AboutAssets.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_radio_button/radio_button/radio_button.Android/MainActivity.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_radio_button/radio_button/radio_button.Android/Properties/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_radio_button/radio_button/radio_button.Android/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_radio_button/radio_button/radio_button.Android/Resources/AboutResources.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_radio_button/radio_button/radio_button.Android/Resources/layout/Tabbar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_radio_button/radio_button/radio_button.Android/Resources/layout/Toolbar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_radio_button/radio_button/radio_button.Android/Resources/mipmap-anydpi-v26/icon.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_radio_button/radio_button/radio_button.Android/Resources/mipmap-anydpi-v26/icon_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_radio_button/radio_button/radio_button.Android/Resources/mipmap-hdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_radio_button/radio_button/radio_button.Android/Resources/mipmap-hdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_radio_button/radio_button/radio_button.Android/Resources/mipmap-mdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_radio_button/radio_button/radio_button.Android/Resources/mipmap-mdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_radio_button/radio_button/radio_button.Android/Resources/mipmap-xhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_radio_button/radio_button/radio_button.Android/Resources/mipmap-xhdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_radio_button/radio_button/radio_button.Android/Resources/mipmap-xxhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_radio_button/radio_button/radio_button.Android/Resources/mipmap-xxhdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_radio_button/radio_button/radio_button.Android/Resources/mipmap-xxxhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_radio_button/radio_button/radio_button.Android/Resources/mipmap-xxxhdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_radio_button/radio_button/radio_button.Android/Resources/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_radio_button/radio_button/radio_button.Android/Resources/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_radio_button/radio_button/radio_button.Android/radio_button.Android.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_radio_button/radio_button/radio_button/App.xaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_radio_button/radio_button/radio_button/App.xaml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_radio_button/radio_button/radio_button/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_radio_button/radio_button/radio_button/MainPage.xaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_radio_button/radio_button/radio_button/MainPage.xaml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_radio_button/radio_button/radio_button/radio_button.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_suma/suma.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_suma/suma/suma.Android/Assets/AboutAssets.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_suma/suma/suma.Android/MainActivity.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_suma/suma/suma.Android/Properties/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_suma/suma/suma.Android/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_suma/suma/suma.Android/Resources/AboutResources.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_suma/suma/suma.Android/Resources/layout/Tabbar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_suma/suma/suma.Android/Resources/layout/Toolbar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_suma/suma/suma.Android/Resources/mipmap-anydpi-v26/icon.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_suma/suma/suma.Android/Resources/mipmap-anydpi-v26/icon_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_suma/suma/suma.Android/Resources/mipmap-hdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_suma/suma/suma.Android/Resources/mipmap-hdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_suma/suma/suma.Android/Resources/mipmap-mdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_suma/suma/suma.Android/Resources/mipmap-mdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_suma/suma/suma.Android/Resources/mipmap-xhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_suma/suma/suma.Android/Resources/mipmap-xhdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_suma/suma/suma.Android/Resources/mipmap-xxhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_suma/suma/suma.Android/Resources/mipmap-xxhdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_suma/suma/suma.Android/Resources/mipmap-xxxhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_suma/suma/suma.Android/Resources/mipmap-xxxhdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_suma/suma/suma.Android/Resources/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_suma/suma/suma.Android/Resources/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_suma/suma/suma.Android/suma.Android.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_suma/suma/suma/App.xaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_suma/suma/suma/App.xaml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_suma/suma/suma/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_suma/suma/suma/MainPage.xaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_suma/suma/suma/MainPage.xaml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190822_suma/suma/suma/suma.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_list_view/list_view.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_list_view/list_view/list_view.Android/Assets/AboutAssets.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_list_view/list_view/list_view.Android/MainActivity.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_list_view/list_view/list_view.Android/Properties/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_list_view/list_view/list_view.Android/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_list_view/list_view/list_view.Android/Resources/AboutResources.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_list_view/list_view/list_view.Android/Resources/layout/Tabbar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_list_view/list_view/list_view.Android/Resources/layout/Toolbar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_list_view/list_view/list_view.Android/Resources/mipmap-anydpi-v26/icon.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_list_view/list_view/list_view.Android/Resources/mipmap-anydpi-v26/icon_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_list_view/list_view/list_view.Android/Resources/mipmap-hdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_list_view/list_view/list_view.Android/Resources/mipmap-hdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_list_view/list_view/list_view.Android/Resources/mipmap-mdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_list_view/list_view/list_view.Android/Resources/mipmap-mdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_list_view/list_view/list_view.Android/Resources/mipmap-xhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_list_view/list_view/list_view.Android/Resources/mipmap-xhdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_list_view/list_view/list_view.Android/Resources/mipmap-xxhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_list_view/list_view/list_view.Android/Resources/mipmap-xxhdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_list_view/list_view/list_view.Android/Resources/mipmap-xxxhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_list_view/list_view/list_view.Android/Resources/mipmap-xxxhdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_list_view/list_view/list_view.Android/Resources/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_list_view/list_view/list_view.Android/Resources/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_list_view/list_view/list_view.Android/list_view.Android.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_list_view/list_view/list_view/App.xaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_list_view/list_view/list_view/App.xaml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_list_view/list_view/list_view/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_list_view/list_view/list_view/MainPage.xaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_list_view/list_view/list_view/MainPage.xaml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_list_view/list_view/list_view/list_view.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_picker/picker.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_picker/picker/picker.Android/Assets/AboutAssets.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_picker/picker/picker.Android/MainActivity.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_picker/picker/picker.Android/Properties/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_picker/picker/picker.Android/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_picker/picker/picker.Android/Resources/AboutResources.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_picker/picker/picker.Android/Resources/layout/Tabbar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_picker/picker/picker.Android/Resources/layout/Toolbar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_picker/picker/picker.Android/Resources/mipmap-anydpi-v26/icon.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_picker/picker/picker.Android/Resources/mipmap-anydpi-v26/icon_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_picker/picker/picker.Android/Resources/mipmap-hdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_picker/picker/picker.Android/Resources/mipmap-hdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_picker/picker/picker.Android/Resources/mipmap-mdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_picker/picker/picker.Android/Resources/mipmap-mdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_picker/picker/picker.Android/Resources/mipmap-xhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_picker/picker/picker.Android/Resources/mipmap-xhdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_picker/picker/picker.Android/Resources/mipmap-xxhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_picker/picker/picker.Android/Resources/mipmap-xxhdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_picker/picker/picker.Android/Resources/mipmap-xxxhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_picker/picker/picker.Android/Resources/mipmap-xxxhdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_picker/picker/picker.Android/Resources/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_picker/picker/picker.Android/Resources/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_picker/picker/picker.Android/picker.Android.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_picker/picker/picker/App.xaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_picker/picker/picker/App.xaml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_picker/picker/picker/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_picker/picker/picker/MainPage.xaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_picker/picker/picker/MainPage.xaml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_picker/picker/picker/picker.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_youtube_player/youtube_player.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_youtube_player/youtube_player/youtube_player.Android/Assets/AboutAssets.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_youtube_player/youtube_player/youtube_player.Android/MainActivity.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_youtube_player/youtube_player/youtube_player.Android/Properties/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_youtube_player/youtube_player/youtube_player.Android/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_youtube_player/youtube_player/youtube_player.Android/Resources/AboutResources.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_youtube_player/youtube_player/youtube_player.Android/Resources/layout/Tabbar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_youtube_player/youtube_player/youtube_player.Android/Resources/layout/Toolbar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_youtube_player/youtube_player/youtube_player.Android/Resources/mipmap-anydpi-v26/icon.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_youtube_player/youtube_player/youtube_player.Android/Resources/mipmap-anydpi-v26/icon_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_youtube_player/youtube_player/youtube_player.Android/Resources/mipmap-hdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_youtube_player/youtube_player/youtube_player.Android/Resources/mipmap-hdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_youtube_player/youtube_player/youtube_player.Android/Resources/mipmap-mdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_youtube_player/youtube_player/youtube_player.Android/Resources/mipmap-mdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_youtube_player/youtube_player/youtube_player.Android/Resources/mipmap-xhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_youtube_player/youtube_player/youtube_player.Android/Resources/mipmap-xhdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_youtube_player/youtube_player/youtube_player.Android/Resources/mipmap-xxhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_youtube_player/youtube_player/youtube_player.Android/Resources/mipmap-xxhdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_youtube_player/youtube_player/youtube_player.Android/Resources/mipmap-xxxhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_youtube_player/youtube_player/youtube_player.Android/Resources/mipmap-xxxhdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_youtube_player/youtube_player/youtube_player.Android/Resources/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_youtube_player/youtube_player/youtube_player.Android/Resources/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_youtube_player/youtube_player/youtube_player.Android/youtube_player.Android.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_youtube_player/youtube_player/youtube_player/App.xaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_youtube_player/youtube_player/youtube_player/App.xaml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_youtube_player/youtube_player/youtube_player/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_youtube_player/youtube_player/youtube_player/MainPage.xaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_youtube_player/youtube_player/youtube_player/MainPage.xaml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190902_youtube_player/youtube_player/youtube_player/youtube_player.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190905_mysql/mysql.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190905_mysql/mysql/mysql.Android/Assets/AboutAssets.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190905_mysql/mysql/mysql.Android/MainActivity.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190905_mysql/mysql/mysql.Android/Properties/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190905_mysql/mysql/mysql.Android/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190905_mysql/mysql/mysql.Android/Resources/AboutResources.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190905_mysql/mysql/mysql.Android/Resources/layout/Tabbar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190905_mysql/mysql/mysql.Android/Resources/layout/Toolbar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190905_mysql/mysql/mysql.Android/Resources/mipmap-anydpi-v26/icon.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190905_mysql/mysql/mysql.Android/Resources/mipmap-anydpi-v26/icon_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190905_mysql/mysql/mysql.Android/Resources/mipmap-hdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190905_mysql/mysql/mysql.Android/Resources/mipmap-hdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190905_mysql/mysql/mysql.Android/Resources/mipmap-mdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190905_mysql/mysql/mysql.Android/Resources/mipmap-mdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190905_mysql/mysql/mysql.Android/Resources/mipmap-xhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190905_mysql/mysql/mysql.Android/Resources/mipmap-xhdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190905_mysql/mysql/mysql.Android/Resources/mipmap-xxhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190905_mysql/mysql/mysql.Android/Resources/mipmap-xxhdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190905_mysql/mysql/mysql.Android/Resources/mipmap-xxxhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190905_mysql/mysql/mysql.Android/Resources/mipmap-xxxhdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190905_mysql/mysql/mysql.Android/Resources/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190905_mysql/mysql/mysql.Android/Resources/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190905_mysql/mysql/mysql.Android/mysql.Android.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190905_mysql/mysql/mysql/App.xaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190905_mysql/mysql/mysql/App.xaml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190905_mysql/mysql/mysql/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190905_mysql/mysql/mysql/MainPage.xaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190905_mysql/mysql/mysql/MainPage.xaml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190905_mysql/mysql/mysql/mysql.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190909_authentication/190909_authentication.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190909_authentication/Authentication/Authentication.Android/Assets/AboutAssets.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190909_authentication/Authentication/Authentication.Android/Authentication.Android.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190909_authentication/Authentication/Authentication.Android/MainActivity.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190909_authentication/Authentication/Authentication.Android/Properties/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190909_authentication/Authentication/Authentication.Android/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190909_authentication/Authentication/Authentication.Android/Resources/AboutResources.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190909_authentication/Authentication/Authentication.Android/Resources/drawable/person_icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190909_authentication/Authentication/Authentication.Android/Resources/layout/Tabbar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190909_authentication/Authentication/Authentication.Android/Resources/layout/Toolbar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190909_authentication/Authentication/Authentication.Android/Resources/mipmap-anydpi-v26/icon.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190909_authentication/Authentication/Authentication.Android/Resources/mipmap-anydpi-v26/icon_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190909_authentication/Authentication/Authentication.Android/Resources/mipmap-hdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190909_authentication/Authentication/Authentication.Android/Resources/mipmap-hdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190909_authentication/Authentication/Authentication.Android/Resources/mipmap-mdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190909_authentication/Authentication/Authentication.Android/Resources/mipmap-mdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190909_authentication/Authentication/Authentication.Android/Resources/mipmap-xhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190909_authentication/Authentication/Authentication.Android/Resources/mipmap-xhdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190909_authentication/Authentication/Authentication.Android/Resources/mipmap-xxhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190909_authentication/Authentication/Authentication.Android/Resources/mipmap-xxhdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190909_authentication/Authentication/Authentication.Android/Resources/mipmap-xxxhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190909_authentication/Authentication/Authentication.Android/Resources/mipmap-xxxhdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190909_authentication/Authentication/Authentication.Android/Resources/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190909_authentication/Authentication/Authentication.Android/Resources/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190909_authentication/Authentication/Authentication/App.xaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190909_authentication/Authentication/Authentication/App.xaml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190909_authentication/Authentication/Authentication/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190909_authentication/Authentication/Authentication/Authentication.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190909_authentication/Authentication/Authentication/LoginPage.xaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190909_authentication/Authentication/Authentication/LoginPage.xaml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190909_authentication/Authentication/Authentication/MainPage.xaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190909_authentication/Authentication/Authentication/MainPage.xaml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../190909_authentication/Authentication/Authentication/User.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../graphics/graphics.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../graphics/graphics/graphics.Android/Assets/AboutAssets.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../graphics/graphics/graphics.Android/MainActivity.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../graphics/graphics/graphics.Android/Properties/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../graphics/graphics/graphics.Android/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../graphics/graphics/graphics.Android/Resources/AboutResources.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../graphics/graphics/graphics.Android/Resources/layout/Tabbar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../graphics/graphics/graphics.Android/Resources/layout/Toolbar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../graphics/graphics/graphics.Android/Resources/mipmap-anydpi-v26/icon.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../graphics/graphics/graphics.Android/Resources/mipmap-anydpi-v26/icon_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../graphics/graphics/graphics.Android/Resources/mipmap-hdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../graphics/graphics/graphics.Android/Resources/mipmap-hdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../graphics/graphics/graphics.Android/Resources/mipmap-mdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../graphics/graphics/graphics.Android/Resources/mipmap-mdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../graphics/graphics/graphics.Android/Resources/mipmap-xhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../graphics/graphics/graphics.Android/Resources/mipmap-xhdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../graphics/graphics/graphics.Android/Resources/mipmap-xxhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../graphics/graphics/graphics.Android/Resources/mipmap-xxhdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../graphics/graphics/graphics.Android/Resources/mipmap-xxxhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../graphics/graphics/graphics.Android/Resources/mipmap-xxxhdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../graphics/graphics/graphics.Android/Resources/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../graphics/graphics/graphics.Android/Resources/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../graphics/graphics/graphics.Android/graphics.Android.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../graphics/graphics/graphics/App.xaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../graphics/graphics/graphics/App.xaml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../graphics/graphics/graphics/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../graphics/graphics/graphics/MainPage.xaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../graphics/graphics/graphics/MainPage.xaml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../graphics/graphics/graphics/graphics.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sqlite/sqlite.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sqlite/sqlite/sqlite.Android/Assets/AboutAssets.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sqlite/sqlite/sqlite.Android/MainActivity.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sqlite/sqlite/sqlite.Android/Properties/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sqlite/sqlite/sqlite.Android/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sqlite/sqlite/sqlite.Android/Resources/AboutResources.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sqlite/sqlite/sqlite.Android/Resources/drawable/add.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sqlite/sqlite/sqlite.Android/Resources/drawable/tick.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sqlite/sqlite/sqlite.Android/Resources/layout/Tabbar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sqlite/sqlite/sqlite.Android/Resources/layout/Toolbar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sqlite/sqlite/sqlite.Android/Resources/mipmap-anydpi-v26/icon.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sqlite/sqlite/sqlite.Android/Resources/mipmap-anydpi-v26/icon_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sqlite/sqlite/sqlite.Android/Resources/mipmap-hdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sqlite/sqlite/sqlite.Android/Resources/mipmap-hdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sqlite/sqlite/sqlite.Android/Resources/mipmap-mdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sqlite/sqlite/sqlite.Android/Resources/mipmap-mdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sqlite/sqlite/sqlite.Android/Resources/mipmap-xhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sqlite/sqlite/sqlite.Android/Resources/mipmap-xhdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sqlite/sqlite/sqlite.Android/Resources/mipmap-xxhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sqlite/sqlite/sqlite.Android/Resources/mipmap-xxhdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sqlite/sqlite/sqlite.Android/Resources/mipmap-xxxhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sqlite/sqlite/sqlite.Android/Resources/mipmap-xxxhdpi/launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sqlite/sqlite/sqlite.Android/Resources/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sqlite/sqlite/sqlite.Android/Resources/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sqlite/sqlite/sqlite.Android/sqlite.Android.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sqlite/sqlite/sqlite/AgregarProduct.xaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sqlite/sqlite/sqlite/AgregarProduct.xaml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sqlite/sqlite/sqlite/App.xaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sqlite/sqlite/sqlite/App.xaml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sqlite/sqlite/sqlite/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sqlite/sqlite/sqlite/DetalleProducto.xaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sqlite/sqlite/sqlite/DetalleProducto.xaml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sqlite/sqlite/sqlite/MainPage.xaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sqlite/sqlite/sqlite/MainPage.xaml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sqlite/sqlite/sqlite/sqlite.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradlew.bat" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -356,10 +22,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="ZY323H6B5G" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -373,7 +37,7 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
           <provider selected="true" editor-type-id="android-designer2" />
@@ -385,9 +49,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="294">
               <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
-              <folding>
-                <element signature="e#594#625#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -494,40 +155,8 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="AndroidView">
-        <subPane>
-          <expand>
-            <path>
-              <item name="190924_suma" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-            </path>
-            <path>
-              <item name="190924_suma" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="190924_suma" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="suma" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="190924_suma" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-            </path>
-            <path>
-              <item name="190924_suma" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-              <item name="values" type="ddeffd01:AndroidResFolderTypeNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane" />
     </panes>
   </component>
@@ -535,11 +164,12 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="ZY323H6B5G" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-09-18T16:50:18.877Z" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.recentlyUsedThemes" value="AppTheme&#10;android:Theme.Material&#10;android:Theme.Material.Dialog.MinWidth" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../190924_suma_with_radio_buttons" />
     <property name="not.eligible.for.single.variant.sync" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
@@ -650,7 +280,7 @@
       <window_info anchor="bottom" id="Version Control" order="4" weight="0.3290735" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="6" weight="0.32978722" />
-      <window_info anchor="bottom" id="Android Profiler" order="7" />
+      <window_info anchor="bottom" id="Android Profiler" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="8" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Gradle" order="1" />
@@ -669,6 +299,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-es-rMX/strings.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="android-dummy:///home/hjgr/Dev/pm2019/android-studio/190924_suma/app/Translations Editor">
+      <provider selected="true" editor-type-id="string-resource-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hegargarcia/suma/MainActivity.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
@@ -685,23 +326,6 @@
           <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-es-rMX/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="android-dummy:///home/hjgr/Dev/pm2019/android-studio/190924_suma/app/Translations Editor">
-      <provider selected="true" editor-type-id="string-resource-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
-      <provider editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
