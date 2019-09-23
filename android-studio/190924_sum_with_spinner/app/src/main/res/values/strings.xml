@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Basic Spinner</string>
+    <string name="action_add">Add</string>
+    <string-array name="actions">
+        <item>Add</item>
+        <item>Subtract</item>
+    </string-array>
+     <string name="result_add">Result: %d + %d = %d</string>
+     <string name="result_subtract">Result: %d - %d = %d</string>
+    <string name="button_action">Compute</string>
 </resources>
