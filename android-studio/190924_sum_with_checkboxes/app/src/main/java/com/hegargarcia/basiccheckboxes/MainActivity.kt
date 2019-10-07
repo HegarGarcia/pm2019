@@ -19,14 +19,18 @@ class MainActivity : AppCompatActivity() {
         var result = ""
 
         if (addCheckbox.isChecked) {
-            result = getString(
+            result += getString(
                 R.string.result_add,
                 firstValue,
                 secondValue,
                 firstValue + secondValue
             )
-        } else if (subtractCheckbox.isChecked) {
-            result = getString(
+        }
+
+        result = if (result.isNotEmpty()) result + "\n" else result
+
+        if (subtractCheckbox.isChecked) {
+            result += getString(
                 R.string.result_subtract,
                 firstValue,
                 secondValue,

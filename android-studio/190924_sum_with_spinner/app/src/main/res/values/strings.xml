@@ -1,11 +1,20 @@
 <resources>
     <string name="app_name">Basic Spinner</string>
     <string name="action_add">Add</string>
+
+    <string name="result_add">Result: %.2f + %.2f = %.2f</string>
+    <string name="result_subtract">Result: %.2f - %.2f = %.2f</string>
+    <string name="result_multiplication">Result: %.2f * %.2f = %.2f</string>
+    <string name="result_division">Result: %.2f / %.2f = %.2f</string>
+
+    <string name="button_action">Compute</string>
+    <string name="first_entry_hint">First Number</string>
+    <string name="second_entry_hint">Second Number</string>
+
     <string-array name="actions">
         <item>Add</item>
         <item>Subtract</item>
+        <item>Multiplication</item>
+        <item>Division</item>
     </string-array>
-     <string name="result_add">Result: %d + %d = %d</string>
-     <string name="result_subtract">Result: %d - %d = %d</string>
-    <string name="button_action">Compute</string>
 </resources>

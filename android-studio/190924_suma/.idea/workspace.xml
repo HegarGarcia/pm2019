@@ -10,10 +10,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7936b8de-1fee-4931-9c85-a0bd4d52f5a7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190924_sum_with_checkboxes/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../190924_sum_with_checkboxes/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190924_sum_with_checkboxes/app/src/main/java/com/hegargarcia/basiccheckboxes/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../190924_sum_with_checkboxes/app/src/main/java/com/hegargarcia/basiccheckboxes/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190924_sum_with_checkboxes/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../190924_sum_with_checkboxes/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190924_sum_with_checkboxes/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../190924_sum_with_checkboxes/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190924_sum_with_spinner/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../190924_sum_with_spinner/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190924_sum_with_spinner/app/src/main/java/com/hegargarcia/basicspinner/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../190924_sum_with_spinner/app/src/main/java/com/hegargarcia/basicspinner/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190924_sum_with_spinner/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../190924_sum_with_spinner/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190924_sum_with_spinner/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../190924_sum_with_spinner/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/app/src/main/java/com/hegargarcia/suma_with_radio_buttons/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/app/src/main/java/com/hegargarcia/suma_with_radio_buttons/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../190924_suma_with_radio_buttons/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +34,7 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="ZY323H6B5G" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -155,8 +166,8 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane" />
     </panes>
   </component>
@@ -262,7 +273,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="23" y="0" width="1899" height="1082" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" />
       <window_info id="Build Variants" order="1" side_tool="true" />
@@ -279,8 +289,8 @@
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.3290735" />
       <window_info anchor="bottom" id="Version Control" order="4" weight="0.3290735" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="6" weight="0.32978722" />
-      <window_info anchor="bottom" id="Android Profiler" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="6" visible="true" weight="0.3290735" />
+      <window_info anchor="bottom" id="Android Profiler" order="7" />
       <window_info anchor="bottom" id="Run" order="8" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Gradle" order="1" />

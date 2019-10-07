@@ -5,8 +5,8 @@
 
     <string name="first_entry">Fist number</string>
     <string name="second_entry">Second number</string>
-    <string name="result_addition">Result: %d + %d = %d</string>
-    <string name="result_subtraction">Result: %d - %d = %d</string>
+    <string name="result_addition">Result: %.2f + %.2f = %.2f</string>
+    <string name="result_subtraction">Result: %.2f - %.2f = %.2f</string>
 
     <string name="addition">Add</string>
     <string name="subtraction">Subtract</string>

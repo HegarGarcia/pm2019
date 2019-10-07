@@ -3,8 +3,8 @@
     <string name="button_action">Compute</string>
     <string name="action_add">Add</string>
     <string name="action_subtract">Subtract</string>
-    <string name="result_add">Result: %d + %d = %d</string>
-    <string name="result_subtract">Result: %d - %d = %d</string>
+    <string name="result_add">Result: %.2f + %.2f = %.2f</string>
+    <string name="result_subtract">Result: %.2f - %.2f = %.2f</string>
     <string name="first_entry_hint">First number</string>
     <string name="second_entry_hint">Second number</string>
 </resources>
