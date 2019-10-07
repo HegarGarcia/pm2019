@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Snackbar Notification</string>
+
+    <string name="main_label">What number did you see?</string>
+
+    <string name="action">Check!</string>
+
+    <string name="toast_string">Number to remember: %d</string>
+
+    <string name="correct_answer">You got it right</string>
+
+    <string name="incorrect_answer">Better luck new time!</string>
+</resources>

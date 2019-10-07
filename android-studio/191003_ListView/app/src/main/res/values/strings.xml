@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">List View</string>
+
+    <string name="populationText">The population is: %d</string>
+
+    <string-array name="countries">
+        <item>Argentina</item>
+        <item>Chile</item>
+        <item>Paraguay</item>
+        <item>Bolivia</item>
+        <item>Peru</item>
+        <item>Ecuador</item>
+        <item>Brazil</item>
+        <item>Colombia</item>
+        <item>Venezuela</item>
+        <item>Uruguay</item>
+    </string-array>
+
+    <string-array name="populations">
+        <item>40000000</item>
+        <item>17000000</item>
+        <item>6500000</item>
+        <item>10000000</item>
+        <item>30000000</item>
+        <item>14000000</item>
+        <item>183000000</item>
+        <item>44000000</item>
+        <item>31000000</item>
+        <item>3500000</item>
+    </string-array>
+</resources>
