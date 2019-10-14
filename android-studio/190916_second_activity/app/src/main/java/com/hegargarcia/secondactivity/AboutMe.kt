@@ -1,19 +1,18 @@
 package com.hegargarcia.secondactivity
 
-import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import kotlinx.android.synthetic.main.activity_about_me.*
 import kotlinx.android.synthetic.main.activity_main.*
 
-class MainActivity : AppCompatActivity() {
+class AboutMe : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_about_me)
 
-        aboutMeButton.setOnClickListener {
-            val intent = Intent(this, AboutMe::class.java)
-            startActivity(intent)
+        closeButton.setOnClickListener {
+            finish()
         }
     }
 }
