@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Second Activity with Parameters</string>
+
+    <string name="entry_hint">Enter website</string>
+    <string name="action_button">Go!</string>
+
+    <string name="close_button">Close</string>
+</resources>

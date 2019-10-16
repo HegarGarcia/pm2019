@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Shared Preferences Agenda</string>
+
+    <string name="name_hint">Name</string>
+    <string name="extra_hint">Extra</string>
+
+    <string name="save_button">Save</string>
+    <string name="load_button">Load</string>
+
+    <string name="successful_load">Saved successfully!</string>
+    <string name="no_data">That name is not in the agenda</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Second Activity With Password</string>
+
+    <string name="button_login">Login</string>
+    <string name="button_close">Close</string>
+
+    <string name="Password">Password</string>
+</resources>

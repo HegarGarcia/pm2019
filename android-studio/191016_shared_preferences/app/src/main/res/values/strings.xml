@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shared Preferences</string>
+
+    <string name="email_entry_hint">Email</string>
+    <string name="acton_button">Save and Close</string>
+
+</resources>

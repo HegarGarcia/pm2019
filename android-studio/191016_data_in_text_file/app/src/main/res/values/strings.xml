@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Data in Text File</string>
+
+    <string name="action_button">Save</string>
+    <string name="hint">Text</string>
+
+    <string name="success">Saved correctly</string>
+</resources>

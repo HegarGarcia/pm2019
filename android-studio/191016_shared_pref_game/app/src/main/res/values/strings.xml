@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shared Preference Game</string>
+    <string name="score">Score %d</string>
+    <string name="number_hint">Enter a number</string>
+    <string name="action_button">Guess</string>
+    <string name="hint">Guess a number between 1 and 50</string>
+    <string name="wrong">Wrong guess</string>
+    <string name="right">Good guess</string>
+</resources>
