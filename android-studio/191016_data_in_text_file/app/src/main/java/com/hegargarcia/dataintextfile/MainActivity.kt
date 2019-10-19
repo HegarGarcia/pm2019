@@ -20,9 +20,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val existsFile = fileList().contains(fileName)
-
-        if (existsFile) {
+        if (fileList().contains(fileName)) {
             try {
                 val file = InputStreamReader(openFileInput(fileName))
                 val buffer = BufferedReader(file)
@@ -30,7 +28,7 @@ class MainActivity : AppCompatActivity() {
 
                 val infoText = StringBuilder()
 
-                while (line.isNotEmpty()) {
+                while (!line.isNullOrEmpty()) {
                     infoText.append(line)
                     infoText.append("\n")
                     line = buffer.readLine()

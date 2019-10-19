@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    
+    <string name="save_button">Save item</string>
+    <string name="update_button">Update Item</string>
+    <string name="search_by_id_button">Search by Id</string>
+    <string name="search_by_description_button">Search by Description</string>
+    <string name="delete_button">Delete item</string>
+
+    <string name="id_hint">ID</string>
+    <string name="description_hint">Description</string>
+    <string name="price_hint">Price</string>
+
+    <string name="add_msg">Item added</string>
+    <string name="delete_msg">Item deleted</string>
+    <string name="not_fount">No items</string>
+</resources>
