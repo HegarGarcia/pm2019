@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">REST API</string>
+
+    <string name="main_menu_title">Main Menu</string>
+
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="remember">Remember</string>
+
+    <string name="prompt_user">User</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_full_name">Full Name</string>
+
+    <string name="image_description">User icon</string>
+</resources>
