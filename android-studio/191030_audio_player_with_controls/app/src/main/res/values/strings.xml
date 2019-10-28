@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Audio Player with Controls</string>
+    <string name="play_button">Play</string>
+    <string name="pause_button">Pause</string>
+    <string name="continue_button">Continue</string>
+    <string name="stop_button">Stop</string>
+    <string name="cycle_button">Cycle</string>
+    <string name="no_cycle_button">No Cycle</string>
+</resources>
