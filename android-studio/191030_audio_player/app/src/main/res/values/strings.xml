@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Audio Player</string>
+    <string name="cat_sound">Cat</string>
+    <string name="lion_sound">Lion</string>
+</resources>
