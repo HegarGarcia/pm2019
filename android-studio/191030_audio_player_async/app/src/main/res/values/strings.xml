@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Audio Player Async</string>
+    <string name="play_button">Play</string>
+    <string name="error">Error</string>
+</resources>
