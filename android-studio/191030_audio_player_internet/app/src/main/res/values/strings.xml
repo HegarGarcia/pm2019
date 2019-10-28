@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Audio Player from Internet</string>
+    <string name="play_button">Play Audio</string>
+    <string name="error">Playing error</string>
+</resources>
